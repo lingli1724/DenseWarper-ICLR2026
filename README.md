@@ -2,7 +2,7 @@
 
 ## Resources
 
-Paper: [(arXiv:??)](https://arxiv.org)
+Paper: [(arXiv:??)](https://arxiv.org) coming soon！
 
 *MPI-INF-3DHP* Dataset: [(3dhp-dataset)](https://vcai.mpi-inf.mpg.de/3dhp-dataset/)
 
@@ -77,4 +77,5 @@ python run/DenseWarper/DenseWarper_main.py --cfg experiments/h36m/h36m_4view.yam
 
 ```bash
 python run/DenseWarper/DenseWarper_3dhp_main.py --cfg experiments/3dhp/3dhp_4view.yaml --runMode train
+
 ```
