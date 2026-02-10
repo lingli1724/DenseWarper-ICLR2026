@@ -25,11 +25,6 @@ cd ${POSE_ROOT}/lib/deform_conv
 python setup.py develop
 ```
 
-### Pretrained Models
-Download pretrained models. Please download them under {POSE_ROOT}
-
-The pretrained model on *Human3.6M* can be downloaded from this [link](https://drive.google.com/file/d/1VRiB-4DgmVfL7FXRdsWITFDzECrCPwWg/view?usp=drive_link) and the pretrained model on *MPI-INF-3DHP* can be downloaded from this [link](https://drive.google.com/file/d/11tWJXBPC8wSywHISLQpZaV3ayWWvH6ju/view?usp=drive_link)
-
 ### Human3.6M
 Please follow [CHUNYUWANG/H36M-Toolbox](https://github.com/CHUNYUWANG/H36M-Toolbox) to prepare the data.
 
@@ -63,7 +58,7 @@ MPJPE summary: j3d_DenseWarper 22.3
 **MPI-INF-3DHP**
 
 ```
-MPJPE summary: j3d_DenseWarper 47.89
+MPJPE summary: j3d_DenseWarper 65.89
 ```
 
 ## Train
@@ -79,3 +74,4 @@ python run/DenseWarper/DenseWarper_main.py --cfg experiments/h36m/h36m_4view.yam
 python run/DenseWarper/DenseWarper_3dhp_main.py --cfg experiments/3dhp/3dhp_4view.yaml --runMode train
 
 ```
+
