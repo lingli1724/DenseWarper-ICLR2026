@@ -1,5 +1,11 @@
 # 🧠 [ICLR Article] From Sparse to Dense: Spatio-Temporal Fusion for Multi-View 3D Human Pose Estimation with DenseWarper
 
+## 🏗️ Description
+
+<p align="center">
+  <img src="framework.png" width="80%">
+</p>
+
 ## 📚 Resources
 
 📄 Paper: [(arXiv:??)](https://arxiv.org) coming soon！
