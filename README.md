@@ -8,7 +8,7 @@
 
 ## 📚 Resources
 
-📄 Paper: [(arXiv:??)](https://arxiv.org) coming soon！
+📄 Paper: https://arxiv.org/abs/2605.14525
 
 📦 *MPI-INF-3DHP* Dataset: [(3dhp-dataset)](https://vcai.mpi-inf.mpg.de/3dhp-dataset/)
 
